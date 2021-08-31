@@ -6,9 +6,7 @@ Remember to create a .env and create a 'TOKEN' variable.
 
 Requirements:
 
--python 3.8 or higher
-
--discord.py
+python 3.8 or higher, discord.py
 
 Commands/Events:
 
