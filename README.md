@@ -1,5 +1,4 @@
 # Python Color Bot
-About:
 
 Just a simple bot that i made for my public server, i made it in 2 days, you are free to use it as your wish.
 
