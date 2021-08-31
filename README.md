@@ -15,5 +15,6 @@ Commands:
 
 &&deleteAllColor - delete all color roles
   
-You can also pin any message by reacting with 📌
-By removing the 📌, the message is unpined
+You can also pin any message by reacting with 📌.
+
+By removing the 📌, the message is unpined.
