@@ -1,20 +1,34 @@
-# PythonDiscordBot
-Simple Discord bot made in python.
+# Python Color Bot
+About:
 
-Commands:
+Just a simple bot that i made for my public server, i made it in 2 days, you are free to use it as your wish.
 
-&&help - shows all commands
+Remember to create a .env and create a 'TOKEN' variable.
 
-&&dice <number> - rolls dice
+Requirements:
+-python 3.8 or higher
+-discord.py
 
-&&color <hex value> - changes user color
+Commands/Events:
 
-&&clear - removes all user color
-  
-&&shutdown - shutdowns bot
+&&help:
+	Prints a message with all commands.
 
-&&deleteAllColor - delete all color roles
-  
-You can also pin any message by reacting with 📌.
+&&dice <number>:
+	Rolls a die with the chosen number of sides.
 
-By removing the 📌, the message is unpined.
+&&color <HEXcode>:
+	Change user color role using 6 digit HEX codes.
+
+&&clear:
+	Clear user color role.
+
+&&shutdown:
+	Turn off the bot. (Can only be used by the bot owner)
+
+&&deleteAllColor:
+	Deletes all color roles made by the bot. (Can only be used by the bot owner)
+
+By reacting to any message with the "📌" emoji, the bot pins the message.
+
+By removing the "📌" from reactions, the bot unpins the message.
