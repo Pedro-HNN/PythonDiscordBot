@@ -5,7 +5,9 @@ Just a simple bot that i made for my public server, i made it in 2 days, you are
 Remember to create a .env and create a 'TOKEN' variable.
 
 Requirements:
+
 -python 3.8 or higher
+
 -discord.py
 
 Commands/Events:
