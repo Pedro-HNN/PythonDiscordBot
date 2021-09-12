@@ -25,11 +25,11 @@ class music(commands.Cog):
             else:
                 await context.voice_client.move_to(voice_channel)
 
-        # TODO: fazer sistema de listas de músicas etc
-        # TODO: fazer tocar spotimerda, vimeo, soundcloud e mp3/mp4 da internet
-        # TODO: fazer jeito de aparecer lista de música
+        # TODO: music lists system
+        # TODO: play with spotify API and .mp3/.mp4
+        # TODO: queue function
 
-        context.voice_client.stop()  # termina toda música que pode estar tocando antes de tocar a próxima
+        context.voice_client.stop()
 
         vc = context.voice_client
 
