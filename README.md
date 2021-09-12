@@ -26,6 +26,22 @@ Commands/Events:
 
 &&deleteAllColor:
 	Deletes all color roles made by the bot. (Can only be used by the bot owner)
+	
+
+&&play <youtube link>:
+	Plays music from youtube (still working on that)
+	
+
+&&disconnect:
+	Disconnects from voice channel
+	
+
+&&pause:
+	Pauses music
+	
+
+&&resume:
+	resumes music
 
 By reacting to any message with the "📌" emoji, the bot pins the message.
 
