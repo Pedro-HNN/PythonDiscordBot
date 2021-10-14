@@ -2,6 +2,8 @@
 
 Just a simple bot that i made for my public server, i made it in 2 days, you are free to use it as your wish.
 
+The bot ISN'T complete. I've had to work in other projects, one day i will continue working on it.
+
 Remember to create a .env and create a 'TOKEN' variable.
 
 Requirements:
