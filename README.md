@@ -1,6 +1,7 @@
 ## 🎨 Color Bot made in Python for Discord
 
-Just a simple bot that I made for my public server, I made it in 2 days, you are free to use it as your wish. The bot ISN'T complete. I've had to work in other projects, one day I will continue working on it.
+Just a simple bot that I made for my public server, I made it in 2 days, you are free to use it as your wish. 
+The bot ISN'T complete. I've had to work in other projects, one day I will continue working on it.
 
 **Remember to create a .env and create a 'TOKEN' variable.**
 
