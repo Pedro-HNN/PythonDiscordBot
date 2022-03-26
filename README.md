@@ -1,50 +1,72 @@
-# Python Color Bot
+## 🎨 Color Bot made in Python for Discord
 
-Just a simple bot that i made for my public server, i made it in 2 days, you are free to use it as your wish.
+Just a simple bot that I made for my public server, I made it in 2 days, you are free to use it as your wish. The bot ISN'T complete. I've had to work in other projects, one day I will continue working on it.
 
-The bot ISN'T complete. I've had to work in other projects, one day i will continue working on it.
+**Remember to create a .env and create a 'TOKEN' variable.**
 
-Remember to create a .env and create a 'TOKEN' variable.
+## Requirements:
 
-Requirements:
-python 3.8 or higher, discord.py
+ - python 3.8 or higher 
+ - discord.py
 
-Commands/Events:
+## Commands/Events:
 
-&&help:
-	Prints a message with all commands.
+Prints a message with all commands.
 
-&&dice <number>:
-	Rolls a die with the chosen number of sides.
-
-&&color <HEXcode>:
-	Change user color role using 6 digit HEX codes.
-
-&&clear:
-	Clear user color role.
-
-&&shutdown:
-	Turn off the bot. (Can only be used by the bot owner)
-
-&&deleteAllColor:
-	Deletes all color roles made by the bot. (Can only be used by the bot owner)
+    &&help:
 	
+---
+Rolls a die with the chosen number of sides.
 
-&&play <youtube link>:
-	Plays music from youtube (still working on that)
+    &&dice <number>:
 	
+---
+Change user color role using 6 digit HEX codes.
 
-&&disconnect:
-	Disconnects from voice channel
+    &&color <HEXcode>:
 	
-
-&&pause:
-	Pauses music
+---	
+  Clear user color role.
+  
+    &&clear:
 	
+---	
+Turn off the bot. (Can only be used by the bot owner)
 
-&&resume:
-	resumes music
+    &&shutdown:
+	
+---	
+Deletes all color roles made by the bot. (Can only be used by the bot owner)
 
+    &&deleteAllColor:
+    	
+	
+---
+Plays music from youtube (still working on that)
+
+    &&play <youtube link>:
+	
+	
+---
+Disconnects from voice channel
+
+    &&disconnect:
+	
+	
+---
+
+Pauses music
+
+    &&pause:
+	
+	
+---
+resumes music
+
+    &&resume:
+
+	
+---
 By reacting to any message with the "📌" emoji, the bot pins the message.
 
 By removing the "📌" from reactions, the bot unpins the message.
